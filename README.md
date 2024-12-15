@@ -4,9 +4,16 @@ Wifi sensing object movement lab in Telecom Sudparis 2024 Autumn semester, "IoT,
 
 ## First experiment - movement
 
-1. MATLAB run `movement/movement.m`
-2. MATLAB run `movement/radargram.m`
+To launch analysis over MATLAB run these two files:
+1. `movement/movement.m`
+2. `movement/radargram.m`
+
+To launch analysis over PYTHON - run `python movement/movement.py`
 
 ## Second experiment - breathing
 
-## Third experiment - sleeping
+To launch analysis over PYTHON - run `python respiration/respiration_analysis.py`
+
+## Third experiment - apnea
+
+To launch analysis over PYTHON -  run `python apnea/apnea.py`
